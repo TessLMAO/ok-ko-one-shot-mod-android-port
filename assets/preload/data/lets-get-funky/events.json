@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				11905.5118110236,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"bf"
+					]
+				]
+			],
+			[
+				15708.6614173228,
+				[
+					[
+						"Play Animation",
+						"intro2",
+						"bf"
+					]
+				]
+			],
+			[
+				16762.7952755905,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ko"
+					]
+				]
+			]
+		]
+	}
+}
