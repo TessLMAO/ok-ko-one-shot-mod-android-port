@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WashingKO.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2 Intro KO0000" x="3" y="3" width="278" height="245" frameX="-172" frameY="0" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0001" x="284" y="3" width="261" height="239" frameX="-160" frameY="-178" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0002" x="548" y="3" width="414" height="163" frameX="-82" frameY="-427" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0003" x="965" y="3" width="527" height="134" frameX="0" frameY="-437" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0004" x="1495" y="3" width="196" height="458" frameX="-233" frameY="-100" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0005" x="1694" y="3" width="327" height="417" frameX="-158" frameY="-139" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0006" x="1694" y="3" width="327" height="417" frameX="-158" frameY="-139" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0007" x="2024" y="3" width="318" height="422" frameX="-163" frameY="-140" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0008" x="2345" y="3" width="321" height="416" frameX="-176" frameY="-140" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0009" x="2669" y="3" width="290" height="410" frameX="-180" frameY="-146" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0010" x="2962" y="3" width="305" height="403" frameX="-153" frameY="-153" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0011" x="3270" y="3" width="322" height="403" frameX="-140" frameY="-153" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0012" x="3595" y="3" width="326" height="402" frameX="-136" frameY="-156" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0013" x="3595" y="3" width="326" height="402" frameX="-136" frameY="-156" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0014" x="3" y="464" width="324" height="406" frameX="-135" frameY="-151" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0015" x="3" y="464" width="324" height="406" frameX="-135" frameY="-151" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0016" x="330" y="464" width="319" height="409" frameX="-145" frameY="-147" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0017" x="330" y="464" width="319" height="409" frameX="-145" frameY="-147" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0018" x="652" y="464" width="320" height="412" frameX="-147" frameY="-143" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0019" x="975" y="464" width="324" height="414" frameX="-147" frameY="-141" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0020" x="1302" y="464" width="322" height="414" frameX="-149" frameY="-141" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0021" x="1627" y="464" width="318" height="419" frameX="-149" frameY="-136" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0022" x="1948" y="464" width="320" height="419" frameX="-147" frameY="-136" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0023" x="2271" y="464" width="326" height="420" frameX="-141" frameY="-135" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0024" x="2600" y="464" width="334" height="400" frameX="-137" frameY="-155" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0025" x="2600" y="464" width="334" height="400" frameX="-137" frameY="-155" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0026" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0027" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0028" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0029" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0030" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="2 Intro KO0031" x="2937" y="464" width="329" height="406" frameX="-138" frameY="-149" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="DownWashing0000" x="3269" y="464" width="349" height="449" frameX="0" frameY="-2" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0001" x="3269" y="464" width="349" height="449" frameX="0" frameY="-2" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0002" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0003" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0004" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0005" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0006" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0007" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0008" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0009" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0010" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0011" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0012" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="DownWashing0013" x="3621" y="464" width="348" height="451" frameX="-7" frameY="0" frameWidth="355" frameHeight="451"/>
+	<SubTexture name="Intro KO0000" x="3" y="918" width="345" height="452" frameX="0" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0001" x="3" y="918" width="345" height="452" frameX="0" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0002" x="3" y="918" width="345" height="452" frameX="0" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0003" x="351" y="918" width="341" height="448" frameX="0" frameY="-684" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0004" x="351" y="918" width="341" height="448" frameX="0" frameY="-684" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0005" x="695" y="918" width="341" height="452" frameX="0" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0006" x="1039" y="918" width="349" height="455" frameX="0" frameY="-677" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0007" x="1039" y="918" width="349" height="455" frameX="0" frameY="-677" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0008" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0009" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0010" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0011" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0012" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0013" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0014" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0015" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0016" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0017" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0018" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0019" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0020" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0021" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0022" x="1391" y="918" width="350" height="457" frameX="0" frameY="-675" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0023" x="1744" y="918" width="347" height="454" frameX="0" frameY="-678" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0024" x="1744" y="918" width="347" height="454" frameX="0" frameY="-678" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0025" x="2094" y="918" width="328" height="450" frameX="-16" frameY="-681" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0026" x="2425" y="918" width="340" height="449" frameX="-27" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0027" x="2768" y="918" width="643" height="446" frameX="-86" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0028" x="3414" y="918" width="290" height="406" frameX="-91" frameY="-682" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0029" x="3707" y="918" width="290" height="406" frameX="-91" frameY="-682" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0030" x="3" y="1378" width="274" height="408" frameX="-93" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0031" x="280" y="1378" width="274" height="408" frameX="-93" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0032" x="557" y="1378" width="273" height="408" frameX="-93" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0033" x="833" y="1378" width="293" height="408" frameX="-73" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0034" x="1129" y="1378" width="288" height="408" frameX="-73" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0035" x="1420" y="1378" width="282" height="408" frameX="-75" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0036" x="1705" y="1378" width="282" height="403" frameX="-75" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0037" x="1990" y="1378" width="263" height="403" frameX="-77" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0038" x="2256" y="1378" width="257" height="399" frameX="-77" frameY="-689" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0039" x="2516" y="1378" width="256" height="399" frameX="-76" frameY="-689" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0040" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0041" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0042" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0043" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0044" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0045" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0046" x="2775" y="1378" width="259" height="403" frameX="-76" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0047" x="3037" y="1378" width="263" height="405" frameX="-76" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0048" x="3037" y="1378" width="263" height="405" frameX="-76" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0049" x="3303" y="1378" width="283" height="408" frameX="-76" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0050" x="3303" y="1378" width="283" height="408" frameX="-76" frameY="-680" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0051" x="3589" y="1378" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0052" x="3589" y="1378" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0053" x="3" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0054" x="3" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0055" x="3" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0056" x="3" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0057" x="302" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0058" x="302" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0059" x="601" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0060" x="601" y="1789" width="296" height="405" frameX="-73" frameY="-683" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0061" x="900" y="1789" width="296" height="403" frameX="-73" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0062" x="900" y="1789" width="296" height="403" frameX="-73" frameY="-685" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0063" x="1199" y="1789" width="309" height="388" frameX="-55" frameY="-700" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0064" x="1511" y="1789" width="335" height="339" frameX="-20" frameY="-749" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0065" x="1511" y="1789" width="335" height="339" frameX="-20" frameY="-749" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0066" x="1849" y="1789" width="350" height="335" frameX="-12" frameY="-753" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0067" x="1849" y="1789" width="350" height="335" frameX="-12" frameY="-753" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0068" x="2202" y="1789" width="350" height="338" frameX="-12" frameY="-750" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0069" x="2202" y="1789" width="350" height="338" frameX="-12" frameY="-750" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0070" x="2555" y="1789" width="347" height="371" frameX="-21" frameY="-717" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0071" x="2905" y="1789" width="215" height="410" frameX="-135" frameY="-650" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0072" x="3" y="3" width="278" height="245" frameX="-110" frameY="-549" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="Intro KO0073" x="284" y="3" width="261" height="239" frameX="-65" frameY="-294" frameWidth="527" frameHeight="590"/>
+	<SubTexture name="Intro KO0074" x="3123" y="1789" width="229" height="293" frameX="-40" frameY="0" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0075" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0076" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0077" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0078" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0079" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0080" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0081" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0082" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0083" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0084" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0085" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0086" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0087" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0088" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0089" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0090" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0091" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0092" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0093" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0094" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0095" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0096" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0097" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0098" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0099" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0100" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0101" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0102" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0103" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0104" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0105" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0106" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0107" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0108" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0109" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0110" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0111" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0112" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0113" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0114" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0115" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0116" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0117" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0118" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0119" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0120" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0121" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0122" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0123" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0124" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0125" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0126" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0127" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0128" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0129" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0130" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0131" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0132" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0133" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0134" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0135" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0136" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0137" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0138" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0139" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0140" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0141" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0142" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="Intro KO0143" x="3355" y="1789" width="0" height="0" frameX="-712" frameY="-872" frameWidth="729" frameHeight="1134"/>
+	<SubTexture name="LeftMissWash0000" x="3358" y="1789" width="342" height="450" frameX="-6" frameY="0" frameWidth="366" frameHeight="457"/>
+	<SubTexture name="LeftMissWash0001" x="3703" y="1789" width="357" height="457" frameX="-1" frameY="0" frameWidth="366" frameHeight="457"/>
+	<SubTexture name="LeftMissWash0002" x="3" y="2249" width="357" height="457" frameX="-1" frameY="0" frameWidth="366" frameHeight="457"/>
+	<SubTexture name="LeftMissWash0003" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0004" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0005" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0006" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0007" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0008" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0009" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0010" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0011" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0012" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0013" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0014" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0015" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0016" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0017" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0018" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0019" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0020" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0021" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0022" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0023" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0024" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0025" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0026" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0027" x="363" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0028" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftMissWash0029" x="732" y="2249" width="366" height="457"/>
+	<SubTexture name="LeftWashing0000" x="1101" y="2249" width="342" height="450" frameX="0" frameY="-1" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0001" x="1101" y="2249" width="342" height="450" frameX="0" frameY="-1" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0002" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0003" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0004" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0005" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0006" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0007" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0008" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0009" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0010" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0011" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0012" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="LeftWashing0013" x="1446" y="2249" width="341" height="451" frameX="-8" frameY="0" frameWidth="349" frameHeight="451"/>
+	<SubTexture name="MissRightWash0000" x="1790" y="2249" width="374" height="456" frameX="0" frameY="-5" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0001" x="2167" y="2249" width="385" height="468"/>
+	<SubTexture name="MissRightWash0002" x="2167" y="2249" width="385" height="468"/>
+	<SubTexture name="MissRightWash0003" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0004" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0005" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0006" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0007" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0008" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0009" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0010" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0011" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0012" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0013" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0014" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0015" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0016" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0017" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0018" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0019" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0020" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0021" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0022" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0023" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0024" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0025" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0026" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0027" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0028" x="2555" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissRightWash0029" x="2937" y="2249" width="379" height="468" frameX="0" frameY="0" frameWidth="385" frameHeight="468"/>
+	<SubTexture name="MissUpWash0000" x="3319" y="2249" width="343" height="461" frameX="0" frameY="-14" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0001" x="3665" y="2249" width="336" height="481" frameX="-6" frameY="0" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0002" x="3665" y="2249" width="336" height="481" frameX="-6" frameY="0" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0003" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0004" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0005" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0006" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0007" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0008" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0009" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0010" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0011" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0012" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0013" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0014" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0015" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0016" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0017" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0018" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0019" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0020" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0021" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0022" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0023" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0024" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0025" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0026" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0027" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0028" x="3" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="MissUpWash0029" x="344" y="2733" width="338" height="471" frameX="-5" frameY="-9" frameWidth="343" frameHeight="481"/>
+	<SubTexture name="RightWashing0000" x="685" y="2733" width="373" height="455"/>
+	<SubTexture name="RightWashing0001" x="685" y="2733" width="373" height="455"/>
+	<SubTexture name="RightWashing0002" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0003" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0004" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0005" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0006" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0007" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0008" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0009" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0010" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0011" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0012" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="RightWashing0013" x="1061" y="2733" width="360" height="455" frameX="-2" frameY="0" frameWidth="373" frameHeight="455"/>
+	<SubTexture name="UpWashing0000" x="1424" y="2733" width="342" height="460" frameX="-2" frameY="0" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0001" x="1424" y="2733" width="342" height="460" frameX="-2" frameY="0" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0002" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0003" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0004" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0005" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0006" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0007" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0008" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0009" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0010" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0011" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0012" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="UpWashing0013" x="1769" y="2733" width="342" height="457" frameX="0" frameY="-3" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="Washing Idle0000" x="2114" y="2733" width="353" height="452" frameX="0" frameY="-1" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0001" x="2114" y="2733" width="353" height="452" frameX="0" frameY="-1" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0002" x="2470" y="2733" width="349" height="453" frameX="-3" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0003" x="2470" y="2733" width="349" height="453" frameX="-3" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0004" x="2822" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0005" x="2822" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0006" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0007" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0008" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0009" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0010" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0011" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0012" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="Washing Idle0013" x="3171" y="2733" width="346" height="453" frameX="-4" frameY="0" frameWidth="353" frameHeight="453"/>
+	<SubTexture name="dowMissWsh0000" x="3520" y="2733" width="350" height="449" frameX="-2" frameY="-5" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0001" x="3" y="3207" width="363" height="451" frameX="0" frameY="-5" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0002" x="3" y="3207" width="363" height="451" frameX="0" frameY="-5" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0003" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0004" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0005" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0006" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0007" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0008" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0009" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0010" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0011" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0012" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0013" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0014" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0015" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0016" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0017" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0018" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0019" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0020" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0021" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0022" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0023" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0024" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0025" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0026" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0027" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0028" x="369" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+	<SubTexture name="dowMissWsh0029" x="732" y="3207" width="360" height="456" frameX="-1" frameY="0" frameWidth="363" frameHeight="456"/>
+</TextureAtlas>

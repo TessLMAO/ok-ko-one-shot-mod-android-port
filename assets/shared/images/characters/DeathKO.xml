@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeathKO.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeathConfirm KO0000" x="3" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0001" x="332" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0002" x="661" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0003" x="990" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0004" x="1319" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0005" x="1648" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0006" x="1977" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0007" x="2306" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0008" x="2635" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0009" x="2964" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0010" x="3293" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0011" x="3622" y="3" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0012" x="3" y="437" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0013" x="332" y="437" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0014" x="661" y="437" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0015" x="990" y="437" width="326" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0016" x="1319" y="437" width="327" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0017" x="1649" y="437" width="328" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0018" x="1980" y="437" width="330" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0019" x="2313" y="437" width="332" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0020" x="2648" y="437" width="333" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0021" x="2984" y="437" width="334" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0022" x="3321" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0023" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0024" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0025" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0026" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0027" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0028" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0029" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0030" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0031" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0032" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathConfirm KO0033" x="3659" y="437" width="335" height="431" frameX="0" frameY="0" frameWidth="336" frameHeight="431"/>
+	<SubTexture name="DeathIdle KO0000" x="3" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0001" x="332" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0002" x="332" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0003" x="661" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0004" x="661" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0005" x="990" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0006" x="990" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0007" x="1319" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0008" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0009" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0010" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0011" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0012" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0013" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0014" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0015" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0016" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0017" x="3" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0018" x="332" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0019" x="332" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0020" x="661" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0021" x="661" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0022" x="990" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0023" x="990" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0024" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0025" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0026" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0027" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0028" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0029" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0030" x="1319" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0031" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0032" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathIdle KO0033" x="1648" y="871" width="326" height="432"/>
+	<SubTexture name="DeathStart KO0000" x="1977" y="871" width="333" height="414" frameX="-29" frameY="-1" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0001" x="2313" y="871" width="367" height="414" frameX="-5" frameY="-1" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0002" x="2683" y="871" width="367" height="416" frameX="-5" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0003" x="3053" y="871" width="390" height="416" frameX="0" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0004" x="3053" y="871" width="390" height="416" frameX="0" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0005" x="3446" y="871" width="390" height="416" frameX="0" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0006" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0007" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0008" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0009" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0010" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0011" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0012" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0013" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0014" x="3" y="1306" width="332" height="416" frameX="-29" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0015" x="338" y="1306" width="333" height="416" frameX="-28" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0016" x="338" y="1306" width="333" height="416" frameX="-28" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0017" x="338" y="1306" width="333" height="416" frameX="-28" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0018" x="674" y="1306" width="331" height="416" frameX="-30" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0019" x="674" y="1306" width="331" height="416" frameX="-30" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0020" x="1008" y="1306" width="327" height="416" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0021" x="1008" y="1306" width="327" height="416" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0022" x="1338" y="1306" width="327" height="416" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0023" x="1338" y="1306" width="327" height="416" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0024" x="1668" y="1306" width="327" height="416" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0025" x="1998" y="1306" width="327" height="436" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0026" x="1998" y="1306" width="327" height="436" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0027" x="2328" y="1306" width="327" height="434" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0028" x="2328" y="1306" width="327" height="434" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0029" x="2658" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0030" x="2658" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0031" x="2658" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0032" x="2658" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0033" x="2658" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0034" x="2988" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0035" x="3318" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0036" x="3648" y="1306" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0037" x="3" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0038" x="333" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0039" x="663" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0040" x="993" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0041" x="1323" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0042" x="1653" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0043" x="1983" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0044" x="2313" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0045" x="2643" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0046" x="2973" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0047" x="3303" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0048" x="3633" y="1745" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0049" x="3" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0050" x="333" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0051" x="663" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0052" x="993" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0053" x="1323" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0054" x="1653" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0055" x="1983" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+	<SubTexture name="DeathStart KO0056" x="1983" y="2180" width="327" height="432" frameX="-34" frameY="0" frameWidth="390" frameHeight="436"/>
+</TextureAtlas>
