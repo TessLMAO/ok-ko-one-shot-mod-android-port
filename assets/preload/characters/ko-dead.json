@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DeathStart KO",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "DeathIdle KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "DeathConfirm KO",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DeathKO",
+	"position": [
+		60,
+		350
+	],
+	"healthicon": "ko",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		46,
+		76
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

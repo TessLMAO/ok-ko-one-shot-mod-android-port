@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KO Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up KOO",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-72,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right KO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-22
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownMiss KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpMiss KO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Rightmiss KO",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge KO"
+		},
+		{
+			"offsets": [
+				581,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Attack KO"
+		},
+		{
+			"offsets": [
+				-20,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "GetReady KO"
+		},
+		{
+			"offsets": [
+				-9,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hit KO"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey KO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KO",
+	"position": [
+		-130,
+		85
+	],
+	"healthicon": "KO",
+	"flip_x": true,
+	"healthbar_colors": [
+		217,
+		62,
+		68
+	],
+	"camera_position": [
+		400,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
